@@ -1,7 +1,8 @@
 # CPE-009A_FP_VERANO
 
 <h1 align="center">
-  <strong>CPE009A_FP_LOPEZ</strong>
+  <strong>CPE009A_FP_VERANO</strong> <br />
+  My Name Is James Daniel M. Verano! ^V^
 </h1>
   
 <p align="center" style="font-size: 30px;">
